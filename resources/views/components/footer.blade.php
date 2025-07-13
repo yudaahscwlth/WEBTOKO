@@ -1,0 +1,1 @@
+<p>&copy; 2023 WEBTOKO. All rights reserved.</p>
